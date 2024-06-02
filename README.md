@@ -1,6 +1,11 @@
 # Poke_search
 Retrieve Pokemon data through the Poke API &amp; View and Download Pokemons.
-
+## Features
+- Search button to fetch Pokémon data.
+- Capture button to save Pokémon artwork.
+- Display button to open DisplayWindow and Display: Name, abilities, types, and stats; an image label for artwork.
+- Fetch Pokémon Data: Retrieves data from PokeAPI and updates UI.
+Capture Pokémon: Saves artwork to captures directory and updates an internal list.
 ## Setup
 ### Clone the repository to your local machine:
 
